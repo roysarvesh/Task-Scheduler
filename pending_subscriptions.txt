@@ -1,0 +1,10 @@
+{
+    "test@example.com": {
+        "code": "783241",
+        "timestamp": 1750775564
+    },
+    "sarveshkumarroy007@gmail.com": {
+        "code": "125157",
+        "timestamp": 1750775259
+    }
+}
